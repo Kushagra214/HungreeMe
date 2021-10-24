@@ -1,2 +1,2 @@
 # HungreeMe
-Perfect restaurant's website template
+Perfect restaurant's front end website template.
